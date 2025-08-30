@@ -275,7 +275,6 @@ class ReplayBuffer:
 
 **Authors**: Roopesh V, Hvenkatr  
 **Course**: CSE 446/546 - Reinforcement Learning  
-**Institution**: University of Washington  
 
 ---
 
